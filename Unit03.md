@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The European Age of Discovery** <span id="3"></span> 
 *The Renaissance set the stage for European state consolidation and
 expansion overseas between 1450 and 1650.  In the fifteenth century,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST201: History of Europe, 1000 to 1800"
 --------------------------------------------------------------
 

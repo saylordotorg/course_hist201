@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Age of Religious Wars, 1546-1648** <span id="5"></span> 
 *From Martin Luther’s death in 1546 to the middle of the seventeenth
 century, religiously- and politically-inspired violence dominated

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Middle Ages** <span id="1"></span> 
 *By the tenth century, Germanic monarchs had established and
 consolidated kingdoms across Europe.  The Catholic Church also extended

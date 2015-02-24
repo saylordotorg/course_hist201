@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Era of Reformation** <span id="4"></span> 
 *The Protestant Reformation began in 1517, when a little-known German
 priest, Martin Luther, nailed his ninety-five theses protesting the sale

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST201: History of Europe, 1000 to 1800"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Renaissance** <span id="2"></span> 
 *In Italy during the late Middle Ages, the contours of a new cultural
 movement—the Renaissance—began to emerge in urban centers such as Rome,
