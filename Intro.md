@@ -147,3 +147,17 @@ onThursday; etc.
 each reading and/or lecture.  Taking detailed notes as you work through
 the materials in each unit and remembering these terms will help you
 prepare for the Final Exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/hist201/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist201/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist201/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist201/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist201/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist201/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist201/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist201/Unit08/)
+- [Unit 9](https://legacy.saylor.org/hist201/Unit09/)
+- [Unit 10](https://legacy.saylor.org/hist201/Unit10/)
+- [Unit 11](https://legacy.saylor.org/hist201/Unit11/)
