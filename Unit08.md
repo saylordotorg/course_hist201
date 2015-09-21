@@ -157,22 +157,23 @@ Upon successful completion of this unit, the student will be able to:
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**8.1.5 Politics and Science** <span id="8.1.5"></span> 
+**8.1.5 Politics and Science**
 -   **Reading: George Mason University: Professor R. Cherubin’s “The
     Scientific Revolution of the 17th Century and the Political
     Revolutions of the 18th Century”**
     Link: George Mason University: Professor R. Cherubin’s “[The
     Scientific Revolution of the 17th Century and the Political
     Revolutions of the 18th
-    Century](http://classweb.gmu.edu/rcherubi/ancient/srfr.htm)”
+    Century](https://mason.gmu.edu/~rcherubi/srfr.htm)”
     (HTML)  
         
      Instructions: Please read the entire webpage linked above.  This
     article outlines the connection between new scientific philosophies
     and political revolutions in Europe.  
         
-     Terms of Use: Please respect the copyright and terms of use
-    displayed on the webpage above.
+     Terms of Use: This resource is licensed under a [Creative Commons 
+     Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US). 
+     It is attributed to [Rose Cherubin](https://mason.gmu.edu/~rcherubi/).
 
 **8.2 The Enlightenment** <span id="8.2"></span> 
 -   **Lecture: Yale University: Professor John Merriman’s “Lecture 5:
