@@ -164,3 +164,4 @@ prepare for the Final Exam.
 - [Unit 9](https://legacy.saylor.org/hist201/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist201/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist201/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST201/HIST201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST201/HIST201-FinalExam-Answers.html)
