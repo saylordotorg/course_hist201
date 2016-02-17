@@ -47,17 +47,19 @@ Upon successful completion of this unit, the student will be able to:
     the wider world.
 
 -   **Lecture: Middlesex Community College: Dr. David Kalivas’s “World
-    History:” “Age of Discovery” Podcast**
+    History:” “Age of Discovery, Parts 1 & 2” Podcast**
     Link: Middlesex Community College: Dr. David Kalivas’s “World
     History:” “[Age of
-    Discovery](http://itunes.apple.com/us/podcast/david-kalivas-world-history/id94489013)”
-    Podcast (iTunes)  
+    Discovery](http://community.middlesex.mass.edu/blogs/kalivasd/)”
+    Podcast (mp3)
         
      Instructions: Please listen to Parts 1 and 2 of this lecture, which
-    are numbered 11 and 12 respectively on the linked page.  
+    are numbered 13 and 14 respectively on the linked page.  
       
      Dr. Kalivas’s lecture offers an engaging overview of European
     exploration and settlement overseas.  
+
+     Also available on [iTunes](https://itunes.apple.com/us/podcast/world-history/id577080719).
       
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
