@@ -145,7 +145,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.2.2 Renaissance Neo-Platonism** <span id="2.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Neoplatonism”**
     Link: The Saylor Foundation’s
-    “[Neoplatonism](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-2.2.2-Neoplatonism-FINAL1.pdf)”
+    “[Neoplatonism](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-2.2.2-Neoplatonism-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Neoplatonism.” This reading provides a
@@ -212,7 +212,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.2.5 Leonardo da Vinci** <span id="2.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Leonardo da Vinci”**
     Link: The Saylor Foundation’s “[Leonardo da
-    Vinci](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-2.2.5-LeonardoDaVinci-FINAL1.pdf)”
+    Vinci](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-2.2.5-LeonardoDaVinci-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Leonardo da Vinci.” This reading broadly

@@ -47,7 +47,7 @@ Upon successful completion of this unit, the student will be able to:
     and the Middle Ages in the West”**
     Link: The Saylor Foundation’s “[The Legacy of the Roman Empire and
     the Middle Ages in the
-    West](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-1-LegacyofRomanEmpire-FINAL1.pdf)”
+    West](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-1-LegacyofRomanEmpire-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “The Legacy of the Roman Empire and the
@@ -58,7 +58,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.1 The Frankish Kingdom** <span id="1.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Frankish Empire”**
     Link: The Saylor Foundations “[The Frankish
-    Empire](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-1.1.1-FrankishEmpire-FINAL1.pdf)”
+    Empire](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-1.1.1-FrankishEmpire-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Frankish Empire.” This reading will
@@ -114,7 +114,7 @@ id="1.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “The Fall of the Carolingian
     Empire.”**
     Link: The Saylor Foundation’s “[The Fall of the Carolingian
-    Empire](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-1.1.3-FallofCarolingianEmpire-FINAL1.pdf)”
+    Empire](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-1.1.3-FallofCarolingianEmpire-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Fall of the Carolingian Empire.”
@@ -125,7 +125,7 @@ id="1.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “The Lives of Medieval
     Peasants”**
     Link: The Saylor Foundation’s “[The Lives of Medieval
-    Peasants](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-1.1.4-MedievalPeasants-FINAL1.pdf)”
+    Peasants](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-1.1.4-MedievalPeasants-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Lives of Medieval Peasants.” This
@@ -283,7 +283,7 @@ id="1.1.5"></span> 
 **1.4.1 Early Medieval Monasticism** <span id="1.4.1"></span> 
 -   **Reading: The Saylor Foundation’s “Early Medieval Monasticism”**
     Link: The Saylor Foundation’s “[Early Medieval
-    Monasticism](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-1.4.1-EarlyMedievalMonasticism-FINAL1.pdf)”
+    Monasticism](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-1.4.1-EarlyMedievalMonasticism-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “Early Medieval Monasticism.” This

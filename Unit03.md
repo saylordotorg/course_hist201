@@ -54,17 +54,19 @@ Upon successful completion of this unit, the student will be able to:
     the wider world.
 
 -   **Lecture: Middlesex Community College: Dr. David Kalivas’s “World
-    History:” “Age of Discovery” Podcast**
+    History:” “Age of Discovery, Parts 1 & 2” Podcast**
     Link: Middlesex Community College: Dr. David Kalivas’s “World
     History:” “[Age of
-    Discovery](http://itunes.apple.com/us/podcast/david-kalivas-world-history/id94489013)”
-    Podcast (iTunes)  
+    Discovery](http://community.middlesex.mass.edu/blogs/kalivasd/)”
+    Podcast (mp3)
         
      Instructions: Please listen to Parts 1 and 2 of this lecture, which
-    are numbered 11 and 12 respectively on the linked page.  
+    are numbered 13 and 14 respectively on the linked page.  
       
      Dr. Kalivas’s lecture offers an engaging overview of European
     exploration and settlement overseas.  
+
+     Also available on [iTunes](https://itunes.apple.com/us/podcast/world-history/id577080719).
       
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
@@ -88,7 +90,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The European Voyages of
     Exploration: Introduction”**
     Link: The Saylor Foundation’s “[The European Voyages of Exploration:
-    Introduction](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.1.1-EuropeanExplorationIntro-FINAL1.pdf)”
+    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.1.1-EuropeanExplorationIntro-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The European Voyages of Exploration:
@@ -99,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The European Voyages of
     Exploration: Portugal”**
     Link: The Saylor Foundation’s “[The European Voyages of Exploration:
-    Portugal](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.1.2-EuropeanExplorationPortugal-FINAL1.pdf)”
+    Portugal](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.1.2-EuropeanExplorationPortugal-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The European Voyages of Exploration:
@@ -110,7 +112,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Latin America and the
     Conquistadors”**
     Link: The Saylor Foundation’s “[Latin America and the
-    Conquistadors](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.1.3-LatinAmericaAndConquistadors-FINAL1.pdf)”
+    Conquistadors](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.1.3-LatinAmericaAndConquistadors-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Latin America and the Conquistadors.” 
@@ -120,7 +122,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Imperial Spain: Castile and
     Aragon”**
     Link: The Saylor Foundation’s “Imperial [Spain: Castile and
-    Aragon](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.1.3-ImperialSpainCastilleandAragon-FINAL1.pdf)”
+    Aragon](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.1.3-ImperialSpainCastilleandAragon-FINAL1.pdf)”
     (PDF).  
         
      Please read “Imperial Spain: Castile and Aragon.” This reading
@@ -132,7 +134,7 @@ Upon successful completion of this unit, the student will be able to:
     Christopher Columbus and the Spanish Empire”**
     Link: The Saylor Foundation’s “[European Voyages of Exploration:
     Christopher Columbus and the Spanish
-    Empire](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.1.4-ChristopherColumbusandSpanishEmpire-FINAL1.pdf)”(PDF).  
+    Empire](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.1.4-ChristopherColumbusandSpanishEmpire-FINAL1.pdf)”(PDF).  
         
      Instructions: Please read “European Voyages of Exploration:
     Christopher Columbus and the Spanish Empire”This reading will help
@@ -145,7 +147,7 @@ Upon successful completion of this unit, the student will be able to:
     Exploration: The Caribbean: First Contact”**
     Link: The Saylor Foundation’s “[The European Voyages of Exploration:
     The Caribbean: First
-    Contact](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-3.2.1-EuropeanExplorationCaribbean-FINAL1.pdf)”
+    Contact](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-3.2.1-EuropeanExplorationCaribbean-FINAL1.pdf)”
     (PDF).  
         
      Instuctions: Please read “The European Voyages of Exploration: The
