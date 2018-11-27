@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
 id="7.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Russian State”**
     Link: The Saylor Foundation’s “[The Russian
-    State](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-7.3.1-TheRussianState-FINAL1.pdf)”
+    State](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-7.3.1-TheRussianState-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Russian State.” This reading
