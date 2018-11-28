@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.1 The Scientific Revolution** <span id="8.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Scientific Revolution”**
     Link: The Saylor Foundation’s “[The Scientific
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.1-TheScientificRevolution-FINAL1.pdf)”
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST201-8.1-TheScientificRevolution-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Scientific Revolution.” This reading
@@ -66,7 +66,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation’s “[The New Astronomy and Cosmology of
     the Scientific Revolution: Nicolaus Copernicus, Tycho Brahe, and
     Johannes
-    Kepler](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST201-8.1.1-CopernicusBraheKepler-FINAL1.pdf)”
+    Kepler](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST201-8.1.1-CopernicusBraheKepler-FINAL1.pdf)”
     (PDF).  
          
      Instructions: Please read “The New Astronomy and Cosmology of the
@@ -113,7 +113,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Galileo Galilei”**
     Link: The Saylor Foundation’s “[Galileo
-    Galilei](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.1.2-GalileoGalilei-FINAL1.pdf)”
+    Galilei](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST201-8.1.2-GalileoGalilei-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Galileo Galilei.” This reading discusses
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Other Scientific Advances”**
     Link: The Saylor Foundation’s “[Other Scientific
-    Advances](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.1.3-OtherAdvances-FINAL1.pdf)”
+    Advances](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST201-8.1.3-OtherAdvances-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Other Scientific Advances.” This reading
@@ -243,7 +243,7 @@ id="8.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Philosophy of Science and the
     Scientific Method”**
     Link: Foundation’s “[Philosophy of Science and the Scientific
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.2.1-Philosophy_of_Science-FINAL1.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST201-8.2.1-Philosophy_of_Science-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Philosophy of Science and the Scientific
@@ -282,7 +282,7 @@ id="8.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Women from the Renaissance to
     the Enlightenment”**
     Link: The Saylor Foundation’s “[Women from the Renaissance to the
-    Enlightenment](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.2.3-WomenRenaissancetoEnlightenment-FINAL1.pdf)”
+    Enlightenment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST201-8.2.3-WomenRenaissancetoEnlightenment-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Women from the Renaissance to the
